@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\N2_2BIM_LP1.props" />
+</Project>
