@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\controllers\\padraocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\controllers\\padraocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\dao\\padraodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\dao\\padraodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\models\\padraoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\models\\padraoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\dao\\helperdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|c:\\users\\joaom\\desktop\\n2_2bim_lp1\\n2_2bim_lp1\\dao\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75631D36-1DB6-4610-AFF7-66BB9DDC07C1}|N2_2BIM_LP1\\N2_2BIM_LP1.csproj|solutionrelative:n2_2bim_lp1\\dao\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PadraoController.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Controllers\\PadraoController.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\Controllers\\PadraoController.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Controllers\\PadraoController.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\Controllers\\PadraoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:44:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PadraoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\PadraoDAO.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\DAO\\PadraoDAO.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\PadraoDAO.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\DAO\\PadraoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:43:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PadraoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Models\\PadraoViewModel.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\Models\\PadraoViewModel.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Models\\PadraoViewModel.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\Models\\PadraoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:42:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "N2_2BIM_LP1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T23:40:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:40:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelperDAO.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\HelperDAO.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\DAO\\HelperDAO.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\HelperDAO.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\DAO\\HelperDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:39:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "N2_2BIM_LP1\\DAO\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\joaom\\Desktop\\N2_2BIM_LP1\\N2_2BIM_LP1\\DAO\\ConexaoBD.cs",
+              "RelativeToolTip": "N2_2BIM_LP1\\DAO\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T23:39:24.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
