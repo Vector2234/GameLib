@@ -42,7 +42,7 @@ namespace N2_2BIM_LP1.Controllers
         protected virtual void PreencheDadosParaView(string Operacao, T model)
         {
             if (GeraProximoId && Operacao == "I")
-                model.id = DAO.ProximoId();
+                model.Id = DAO.ProximoId();
         }
 
         public virtual IActionResult Save(T model, string Operacao)
@@ -74,11 +74,11 @@ namespace N2_2BIM_LP1.Controllers
         protected virtual void ValidaDados(T model, string operacao)
         {
             ModelState.Clear();
-            if (operacao == "I" && DAO.Consulta(model.id) != null)
+            if (operacao == "I" && DAO.Consulta(model.Id) != null)
                 ModelState.AddModelError("Id", "Código já está em uso!");
-            if (operacao == "A" && DAO.Consulta(model.id) == null)
+            if (operacao == "A" && DAO.Consulta(model.Id) == null)
                 ModelState.AddModelError("Id", "Este registro não existe!");
-            if (model.id <= 0)
+            if (model.Id <= 0)
                 ModelState.AddModelError("Id", "Id inválido!");
         }
 
